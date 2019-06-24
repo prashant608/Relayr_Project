@@ -32,4 +32,4 @@ testflow.java is the executable file. Run it as TestNG.
 
 Note:
 
-A screenshot of project structure has been captured from Eclipse and uploaded in GIT project here by name 'ProjectStructure'. Please view this to verify the dependencies and references.
+A screenshot of project structure has been captured from Eclipse and uploaded in GIT project here by name 'ProjectStructure_Eclipse'. Please view this to verify the dependencies and references.
